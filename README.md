@@ -9,7 +9,7 @@ work in progress
 
 ## Contribution
 
-contribution via PRs is very welcome, please email me at p6steve@furnival.net 
+contribution via PRs is very welcome, you can get me at p6steve@furnival.net 
 
 ## Downstream
 
