@@ -13,4 +13,4 @@ contribution via PRs is very welcome, you can get me at p6steve@furnival.net
 
 ## Downstream
 
-- this module is intended to facilitate downstream projects such as raku-Sci and raku-(analytics)
+- this module is intended to facilitate downstream projects such as raku-SciRa and raku-(analytics)
