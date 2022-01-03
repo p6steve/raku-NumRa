@@ -7,10 +7,10 @@ work in progress
 - since Raku has substantial core support for arrays, this is a smaller footprint than it's Python equivalent
 - existing Raku libraries such as Math::Matrix will be defined as dependencies where use'd
 
-# Contribution
+## Contribution
 
 contribution via PRs is very welcome, please email me at p6steve@furnival.net 
 
-# Downstream projects
+## Downstream
 
 - this module is intended to facilitate downstream projects such as raku-Sci and raku-(analytics)
