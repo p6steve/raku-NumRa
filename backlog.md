@@ -8,7 +8,12 @@ Here is to thrash out requirements. Please also reference / link sources.
 ### direction
 
 - build this module mostly in C for performance (assume that C is ubiquitous on Raku installs)
-- use one of the FOSS licensed C libraries via Raku [nativecall](https://docs.raku.org/language/nativecall)
+- use one|more of the FOSS licensed C libraries via Raku [nativecall](https://docs.raku.org/language/nativecall)
+- lean into [PerlPDL](https://en.wikipedia.org/wiki/Perl_Data_Language)
+
+### discards
+
+- not Java / JVM (yet)
 
 ### steps
 
