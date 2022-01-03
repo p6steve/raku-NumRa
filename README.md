@@ -1,5 +1,5 @@
-# Num
-some extensions to Raku arrays for scientific computing
+# NumRa
+some extensions to Raku arrays for scientific computing as an alternative to NumPy
 
 work in progress
 
