@@ -17,4 +17,7 @@ Here is to thrash out requirements. Please also reference / link sources.
 
 ### steps
 
+- get PerlPDL working via inline::<Perl5>
+- get Numpy working via inline:<Pythoh>
+- get some common examples working (aka test v1)
 - review NumPy features vs. C lib features
