@@ -9,7 +9,7 @@ Here is to thrash out requirements. Please also reference / link sources.
 
 - build this module mostly in C for performance (assume that C is ubiquitous on Raku installs)
 - use one|more of the FOSS licensed C libraries via Raku [nativecall](https://docs.raku.org/language/nativecall)
-- lean into [PerlPDL](https://en.wikipedia.org/wiki/Perl_Data_Language)
+- lean into [PerlPDL](https://en.wikipedia.org/wiki/Perl_Data_Language), noting _In Raku, PDL is specified as a trait in [Synopsis 9.](https://raw.githubusercontent.com/perl6/specs/master/S09-data.pod) As of January 2013, this feature is not yet implemented in Rakudo._
 
 ### discards
 
